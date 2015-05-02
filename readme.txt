@@ -1,0 +1,1 @@
+First file created for the git-it tutorial
